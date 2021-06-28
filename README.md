@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**stasbar/stasbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**stanbar/stanbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stasbar&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stanbar&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasbar&layout=compact&exclude_repo=Machine-Learning-Course)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanbar&layout=compact&exclude_repo=Machine-Learning-Course)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stasbar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
