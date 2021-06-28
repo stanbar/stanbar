@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=stanbar&count_private=true&show_icons=true&layout=compact&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanbar&count_private=true&langs_count=7&hide=html&exclude_repo=Machine-Learning-Course,dotfiles&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanbar&count_private=true&langs_count=7&hide=html,postscript&exclude_repo=Machine-Learning-Course,dotfiles&layout=compact&theme=tokyonight" />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stanbar&theme=tokyonight)](https://git.io/streak-stats)
