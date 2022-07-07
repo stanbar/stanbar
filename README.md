@@ -13,7 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=stanbar&count_private=true&show_icons=true&layout=compact&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanbar&count_private=true&langs_count=7&hide=html,postscript&exclude_repo=Machine-Learning-Course,dotfiles&layout=compact&theme=tokyonight" />
+Software developer and PhD candidate in informatics. I love reading, thinking, writing and programming.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stanbar&theme=tokyonight)](https://git.io/streak-stats)
+Professionally, my research interests are in the area of blockchains, cryptocurrencies, cryptography, distributed systems, and zero-knowledge proofs.
+
+As a hobby, my research interests are in the area of mathematical psychology, metacognition, reasoning, decision making, and philosophy.
+
+My lifelong side project is a personal decision algorithm for optimizing flow experience using self-surveying and machine learning.
+
+Key values in my life are 💡Usefulness, 🏍️Efficiency, 🧠Openness, 🍎Simplicity, and 🌎Freedom.
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanbar&count_private=true&langs_count=7&hide=html,postscript&exclude_repo=Machine-Learning-Course,dotfiles&layout=compact&theme=tokyonight" />
