@@ -17,7 +17,7 @@ Software developer and PhD candidate in informatics. I love reading, thinking, w
 
 Professionally, my research interests are in the area of blockchains, cryptocurrencies, cryptography, distributed systems, and zero-knowledge proofs.
 
-As a hobby, my research interests are in the area of mathematical psychology, metacognition, reasoning, decision making, and philosophy.
+As a hobby, my research interests are in the area of mathematical and cognitive psychology, and philosophy.
 
 My lifelong side project is a personal decision algorithm for optimizing flow experience using self-surveying and machine learning.
 
