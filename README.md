@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Software developer and PhD candidate in informatics. I love reading, thinking, writing and programming.
 
-Professionally, my research interests are in the area of blockchains, cryptocurrencies, cryptography, distributed systems, and zero-knowledge proofs.
+Professionally, my research interests are in the area of blockchains, cryptography, distributed systems, and secure computation.
 
 As a hobby, my research interests are in the area of mathematical and cognitive psychology, and philosophy.
 
