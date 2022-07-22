@@ -22,5 +22,3 @@ As a hobby, my research interests are in the area of mathematical and cognitive 
 My lifelong side project is a personal decision algorithm for optimizing flow experience using self-surveying and machine learning.
 
 Key values in my life are 💡Usefulness, 🏍️Efficiency, 🧠Openness, 🍎Simplicity, and 🌎Freedom.
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanbar&count_private=true&langs_count=7&hide=html,postscript&exclude_repo=Machine-Learning-Course,dotfiles&layout=compact&theme=tokyonight" />
