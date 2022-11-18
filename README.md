@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 Software developer and PhD candidate in informatics. I love reading, thinking, writing and programming.
 
-Professionally, my research interests are in the area of blockchains, cryptography, distributed systems, and secure computation.
+Professionally, my research interests are in the area of blockchains, cryptography and secure computation.
 
-As a hobby, my research interests are in the area of mathematical and cognitive psychology, and philosophy.
+As a hobby, my research interests are in the area of psychology and philosophy.
 
-My lifelong side project is a personal decision algorithm for optimizing flow experience using self-surveying and machine learning.
+My lifelong side project is a machine-learning self-surveying personal decision-making algorithm.
 
 Key values in my life are 💡Usefulness, 🏍️Efficiency, 🧠Openness, 🍎Simplicity, and 🌎Freedom.
