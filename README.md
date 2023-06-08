@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software developer and PhD student in informatics. I love reading, thinking, writing and programming.
+Software developer and PhD student in informatics at GdanskTech. I love reading, thinking, writing and programming.
 
 Professionally, my research interests are in the area of blockchains, cryptography and secure computation.
 
