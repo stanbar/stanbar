@@ -17,8 +17,8 @@ Software developer and PhD student in informatics at GdanskTech. I love reading,
 
 Professionally, my research interests are in the area of blockchains, cryptography and secure computation.
 
-As a hobby, my research interests are in the area of psychology and philosophy.
+As a hobby, my research interests are in the areas of psychology and philosophy.
 
-My lifelong side project is a machine-learning self-surveying personal decision-making algorithm.
+My lifelong goal is to find the universal formula for a happy and meaningful life. 
 
 Key values in my life are 💡Usefulness, 🏍️Efficiency, 🧠Openness, 🍎Simplicity, and 🌎Freedom.
