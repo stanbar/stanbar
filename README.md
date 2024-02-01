@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software developer and PhD student in informatics at GdanskTech. I love reading, thinking, writing and programming.
+Software developer and PhD student in informatics.
 
 Professionally, my research interests are in the area of blockchains, cryptography and secure computation.
 
 As a hobby, my research interests are in the areas of psychology and philosophy.
 
-My lifelong goal is to find the universal formula for a happy and meaningful life. 
+My lifelong goal is to find the universal formula for a happy and meaningful life.
 
 Key values in my life are 💡Usefulness, 🏍️Efficiency, 🧠Openness, 🍎Simplicity, and 🌎Freedom.
