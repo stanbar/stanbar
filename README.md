@@ -17,7 +17,7 @@ Software developer and PhD student in informatics.
 
 Professionally, my research interests are in the area of blockchains, cryptography and secure computation.
 
-As a hobby, my research interests are in the areas of psychology and philosophy.
+I combine the world of scientific theory and business practice.
 
 My lifelong goal is to find the universal formula for a happy and meaningful life.
 
