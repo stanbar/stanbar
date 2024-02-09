@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 Software developer and PhD student in informatics.
 
-Professionally, my research interests are in the area of blockchains, cryptography and secure computation.
+My research interests are in the area of blockchains, cryptography and secure computation.
 
-I combine the world of scientific theory and business practice.
+I bridge the gap between scientific theory and practical business applications.
 
 My lifelong goal is to find the universal formula for a happy and meaningful life.
 
