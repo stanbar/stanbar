@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-Security-focused Software Engineer and PhD candidate at Gdańsk University of Technology. My research centers on privacy-preserving distributed systems — trust quantification, secure protocol design, and formal threat modeling under adversarial assumptions. Close to a decade of production engineering experience, from consumer products at scale to backend systems and ML pipelines. I also write about how people work — meaning, identity, and why we do what we do.
+Security-focused Software Engineer with a strong research background in blockchains, privacy-preserving distributed systems, applied cryptography, MPC, and threat modeling. Nearly a decade of full-stack engineering experience, shipping and maintaining production systems used by hundreds of thousands of users. PhD in Information Technology (expected 2026).  I also write about how people work — meaning, identity, and why we do what we do.
