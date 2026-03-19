@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Security-focused Software Engineer with a strong research background in blockchains, privacy-preserving distributed systems, applied cryptography, MPC, and threat modeling. Nearly a decade of full-stack engineering experience, shipping and maintaining production systems used by hundreds of thousands of users. PhD in Information Technology (expected 2026).  I also write about how people work — meaning, identity, and why we do what we do.
+Software Engineer with a strong research background in blockchains, privacy-preserving distributed systems, applied cryptography, MPC, and threat modeling. Nearly a decade of full-stack engineering experience, shipping and maintaining production systems used by hundreds of thousands of users. PhD in Information Technology (expected 2026).  I also write about how people work — meaning, identity, and why we do what we do.
